@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+}
+.name-highlight{
+    color: green;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%; 
+    
+}
+#top-sat{
+    margin-top: 120px;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.biography-area{
+    background-image: url("images/biography-bg.png");
+    
+}
+h2{
+    font-weight: 700;
+}
+
+.latest-work{
+    width: 28%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 1%;
+}
+.latest-work img{
+    width: 100%;
+}
+.work-area{
+    text-align: center;
+    background-image: url("images/latest-work-bg.png");
+}
+.last-area{
+    background-image: url("images/footer-bg.png");
+    text-align: center;
+}
+.text-area{
+
+    padding-bottom: 70px;
+}
+.title-area{
+    padding-bottom: 50px;
+}
+h6{
+    color: dimgray;
+}
+.para-area{
+    padding-bottom: 40px;
+}
+.gmail-area{
+    margin-right: 300px;
+    margin-left: 300px;
+    border-radius: 6px;
+    padding: 6px 6px 6px 6px;
+    background-color: rgb(192, 54, 89);
+
+}  
+
+footer{
+    text-align: center;
+    color: dimgray;
+}
